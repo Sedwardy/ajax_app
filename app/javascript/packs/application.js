@@ -16,3 +16,5 @@ require("../memo")  // 追記する
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
+
+//これがRequireの最後のところにあったエラーを引き起こした原因？
